@@ -1,0 +1,39 @@
+User Stories                                               |Time Estimate (days)
+As a user I would like to give full paths.                 |        2
+                                                           |
+As a user I would like to give a path that navigates to my |
+current directory, from my current directory.              |        2
+                                                           |
+As a user I would like my paths to not start with MASTER/  |
+and instead start with /.                                  |        2
+                                                           |
+As a user I would like to send any command's output to an  |
+output file.                                               |        2
+                                                           |
+As a user I would like to input multiple paths into the LS |
+command.                                                   |        2
+                                                           |
+As a user I would like to list the contents of all         |
+directories in a path given to LS.                         |        2
+                                                           |
+As a user I would like to move a directory into another.   |        2
+                                                           |
+As a user I would like to copy a directory into another.   |        2
+                                                           |
+As a user I would like to give invalid and valid files to  |
+the CAT command, have it show the valid file contents, and |        2
+tell me which files do not exist.                          |
+                                                           |
+As a user I would like to get a file from a URL and store  |        2
+it in my current working directory.                        |
+                                                           |
+As a user I would like to re-execute previous commands.    |        2
+                                                           |
+As a user I would like to search a directory for a file    |        2
+                                                           |
+As a user I would like to search a directory's contents and|
+its children's contents for any files containing a string  |
+value.                                                     |        2
+
+
+           

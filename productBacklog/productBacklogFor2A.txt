@@ -1,0 +1,32 @@
+User Stories                                               |Time Estimate (days)
+As a user I would like to make a directory                 |        2
+As a user I would like to store directories in my directory|        2
+As a user I would like to store files in my directory      |        3
+
+
+
+As a user I would like to be able to create a file         |        2
+As a user I would like to edit a file                      |        2
+As a user I would like to print out the contents of a file |        2
+
+
+As a user I would like to input text to be saved in a new  |        2
+file                                                       |        
+As a user I would like to input text and have it printed   |        2 
+out for me                                                 |
+
+
+
+As a user I would like to navigate directories             |        2
+As a user I would like to view the contents of a directory |        2
+As a user I would like to quit the program                 |        2
+As a user I would like to print the current directory path |        2
+As a user I would like to print out the manual for the     |        2
+program                                                    |
+As a user I would like to be able to keep track of all     |        3
+the commands I used during a session.                      |        
+As a user I would like to be able to return to a previous  |        2
+directory                                                  | 
+
+  
+ 
