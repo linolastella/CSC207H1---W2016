@@ -1,0 +1,12 @@
+Class name: CAT
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+Display the contents of given files [CAT]
+
+Collaborators: 
+Dir
+File
+JShell    
+      

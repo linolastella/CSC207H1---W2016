@@ -1,0 +1,9 @@
+What did I do last time?
+    - Creating a setter and getter method for Directory class
+    - Creating a method to storing Directory in a list  
+What do I plan to do now?
+ 	- Sprint 2 preparation
+ 	- Organization and commenting my code
+Am I blocked on anything?
+    - No
+    
