@@ -1,0 +1,15 @@
+Class name: ECHO
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+Store a given STRING into a given OUTFILE via overwriting. [echo >]
+Store a given STRING into a given OUTFILE via appending. [echo >>]
+Generates an OUTFILE if OUTFILE does not exist.
+Print out given input.
+
+Collaborators: 
+Dir
+File
+JShell    
+      

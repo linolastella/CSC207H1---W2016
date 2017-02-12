@@ -1,0 +1,10 @@
+Class name: HISTORY
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+Display command history [HISTORY]
+
+Collaborators: 
+JShell    
+      

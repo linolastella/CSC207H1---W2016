@@ -1,0 +1,17 @@
+Class name: JShell
+Parent class: -
+Subclasses: - 
+
+Responsibilities:
+Generate a master directory and make it the starting working directory.
+Parse and construct user input.
+Analyze input to execute a command.
+Prompts user for input.
+Prints errors for invalid commands.
+
+
+Collaborators:
+File
+Dir
+Echo
+       

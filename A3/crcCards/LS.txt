@@ -1,0 +1,13 @@
+Class name: LS
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+Display directory contents and children [LS]
+Display a file name from a path [LS]
+
+Collaborators: 
+Dir
+File
+JShell    
+      

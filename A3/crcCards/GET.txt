@@ -1,0 +1,11 @@
+Class name: GET
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+Retrieve the file at that URL and add it to the current working directory.
+URL is a web address. [get]
+
+Collaborators: 
+JShell    
+      

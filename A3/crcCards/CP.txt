@@ -1,0 +1,15 @@
+Class name: CP
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+Copy item OLDPATH to NEWPATH. [cp OLDPATH NEWPATH]
+Both OLDPATH and NEWPATH may be relative to the current directory or 
+may be full paths. 
+If OLDPATH is a directory, copy the all of its contents as well.
+OLDPATH will not be removed
+
+Collaborators:
+Dir 
+JShell    
+      

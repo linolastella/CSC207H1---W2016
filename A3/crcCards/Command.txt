@@ -1,0 +1,11 @@
+Class name: Command
+Parent Class: 
+Subclasses: CAT, CD, ECHO, EXIT, HISTORY, LS, MAN, MKDIR, POPD, PUSHD, PWD
+
+Responsibilities:
+Print error messages
+
+Collaborators: 
+
+JShell    
+      

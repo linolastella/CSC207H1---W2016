@@ -1,0 +1,22 @@
+Class name: MAN
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+Display the manual for a command [MAN]
+Display the manual for the program [MAN]
+
+Collaborators: 
+CAT
+CD
+Command
+ECHO
+EXIT
+HISTORY
+LS
+MKDIR
+POPD
+PUSHD
+PWD
+JShell    
+      

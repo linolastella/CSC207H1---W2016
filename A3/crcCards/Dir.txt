@@ -1,0 +1,14 @@
+Class name: Dir
+Parent class (if any): -
+Subclasses (if any): -
+
+Responsibilities:
+Generate a master directory with a name.
+Generate a directory with a parent. [mkdir]
+Store Files inside.
+Store other Dir inside.
+
+
+Collaborators:
+File
+    

@@ -1,0 +1,11 @@
+Class name: File
+Parent class (if any): -
+Subclasses (if any): -
+
+Responsibilities:
+Generate a File with a name.
+Edit the contents of a File.
+Provide the File contents. [cat]
+
+Collaborators: 
+-

@@ -1,0 +1,12 @@
+Class name: CD
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+Change the current working directory if valid [CD]
+
+
+Collaborators: 
+Dir
+JShell    
+      

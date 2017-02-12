@@ -1,0 +1,13 @@
+Class name: PUSHD
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+Store the current directory in a history, then change to the desired directory
+[PUSHD]
+
+Collaborators: 
+Dir
+File
+JShell    
+      

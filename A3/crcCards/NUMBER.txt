@@ -1,0 +1,11 @@
+Class name: NUMBER
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+This command will recall any of previous history by its number(>=1)
+preceded by an exclamation point (!).
+
+Collaborators: 
+JShell    
+      

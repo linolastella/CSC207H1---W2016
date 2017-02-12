@@ -1,0 +1,11 @@
+Class name: MKDIR
+Parent Class: Command
+Subclasses: 
+
+Responsibilities:
+Generate directories in the program via name and path [MKDIR]
+
+Collaborators: 
+Dir
+JShell    
+      
