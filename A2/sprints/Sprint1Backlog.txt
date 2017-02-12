@@ -1,0 +1,61 @@
+//Sprint 1 Backlog.  
+February 17 to February 23
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I would like to make a directory
+b) As a user I would like to store directories in my directory
+c) As a user I would like to store files in my directory 
+d) As a user I would like to be able to create a file
+e) As a user I would like to edit a file           
+f) As a user I would like to print out the contents of a file 
+g) As a user I would like to input text to be saved in a new  
+   file                                                          
+h) As a user I would like to input text and have it printed  
+   out for me                                                 
+
+Specific tasks to be accomplished:
+a-1. Create the Dir class
+a-2. Create a private constructor in which a Dir has a parent(Dir) and 
+     children(list)
+a-3. Create a factory method to make a Dir in which its parent is null
+a-4. Create a factory method to make a Dir in which its parent is given 
+
+
+b-1. Create a setter method to change a Directory's parent
+b-2. Create a getter method to return a Directory's children
+b-3. Create a method to store a Directory in a Directory's children(list)
+b-4. Make sure when a Directory A is stored in a Directory B
+     Directory A's parent changes to Directory B 
+c-1. Create a method to store a File in a Directory's children(list)
+
+
+d-1. Create the File class
+d-2. Create the File constructor in which File has contents(string)
+e-1. Create a setter method to modify File's contents
+f-1. Create a getter method to return File's contents as a string
+
+
+g-1. Create the echo class
+g-2. Create a method that takes input(string) and overwrites a given File's
+     contents.
+g-3. Create a method that takes input(string) and appends to a given File's
+     contents.
+h-1. Create a method that prints out the input(string).
+
+
+These tasks are assigned as follows:
+User: c5lastel
+Tasks: a-1, a-2, a-3, a-4
+
+User: c4viswan
+Tasks: b-1, b-2, b-3, b-4, c-1
+
+User:  g5schube
+Tasks: d-1, d-2, e-1, f-1
+
+User: c5foroug
+Tasks: g-1, g-2, g-3, h-1
+
+
+

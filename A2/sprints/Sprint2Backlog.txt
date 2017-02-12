@@ -1,0 +1,52 @@
+//Sprint 2 Backlog.  
+February 23 to March 1
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I would like to make a directory
+ 
+b) As a user I would like to be able to create a file
+
+c) As a user I would like to input text to be saved in a new  
+   file                                                          
+d) As a user I would like to navigate directories       
+e) As a user I would like to view the contents of a directory 
+f) As a user I would like to quit the program                 
+g) As a user I would like to print the current directory path 
+h) As a user I would like to print out the manual for the     
+   program                                                    
+i) As a user I would like to be able to keep track of all     
+   the commands I used during a session.                              
+j) As a user I would like to be able to return to a previous 
+   directory    
+                                    
+
+Specific tasks to be accomplished:
+a-1. Create a JUnit test file to test all of Dir's methods thoroughly
+b-1. Create a JUnit test file to test all of File's methods thoroughly
+c-1. Create a JUnit test file to test all of Echo's methods thoroughly
+
+d-1. In JShell create skeleton code to direct the conduction of the algorithm 
+e-1. In JShell create skeleton code to direct the conduction of the algorithm
+f-1. In JShell create skeleton code to direct the conduction of the algorithm
+g-1. In JShell create skeleton code to direct the conduction of the algorithm
+h-1. In JShell create a static String variable to be printed as the manual
+i-1. In JShell create a static ArrayList variable to log all input commands
+j-1. In JShell create a static ArrayList variable to log all directories 
+     navigated
+
+These tasks are assigned as follows:
+User: c5lastel
+Tasks: b-1
+
+User: c4viswan
+Tasks: a-1
+
+User:  g5schube
+Tasks: d-1, e-1, f-1, g-1, h-1, i-1, j-1
+
+User: c5foroug
+Tasks: c-1
+
+
+

@@ -1,0 +1,48 @@
+//Sprint 3 Backlog.  
+March 1 to March 7
+
+
+User Stories from Product Backlog that we will address in this sprint:
+                                                   
+a) As a user I would like to navigate directories       
+b) As a user I would like to view the contents of a directory 
+c) As a user I would like to quit the program                 
+d) As a user I would like to print the current directory path 
+e) As a user I would like to print out the manual for the     
+  program                                                    
+f) As a user I would like to be able to keep track of all     
+   the commands I used during a session.                              
+g) As a user I would like to be able to return to a previous 
+   directory    
+                                    
+
+Specific tasks to be accomplished:
+a-1. Implement the cd and mkdir commands
+a-2. Play with inputs to test
+b-1. Implement the ls and echo command
+b-2. Play with inputs to test
+c-1. Implement the exit command
+c-2. Play with inputs to test
+d-1. Implement the pwd command
+d-2. Play with the inputs to test
+e-1. Implement the man command
+e-2. Create a manual
+e-3. Play with inputs to test
+f-1. Implement the history command
+f-2. make sure every input is stored, if invalid remove and print errors
+f-3. Play with inputs to test
+g-1. Implement the pushd and popd command
+g-2. Play with inputs to test
+
+These tasks are assigned as follows:
+User: c5lastel
+Tasks: a-2, b-2, c-2, d-2, e-2, e-3, f-3, g-3
+
+User: c4viswan
+Tasks: a-2, b-2, c-2, d-2, e-2, e-3, f-3, g-3
+
+User:  g5schube
+Tasks: a-1, b-1, c-1, d-1, e-1, f-1, f-2, g-1 
+
+User: c5foroug
+Tasks: a-2, b-2, c-2, d-2, e-2, e-3, f-3, g-3

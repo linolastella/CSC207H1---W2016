@@ -1,0 +1,61 @@
+//Sprint 4 Backlog.  
+March 13 to March 20
+
+
+User Stories from Product Backlog that we will address in this sprint:
+                                                   
+a) As a user I would like to give full paths.       
+b) As a user I would like to give a path that navigates to my 
+   current directory, from my current directory.
+   
+c) As a user I would like my paths to not start with MASTER/  
+   and instead start with /.    
+               
+d) As a user I would like to move a directory into another.
+ 
+e) As a user I would like to give invalid and valid files to  
+   the CAT command, have it show the valid file contents, and 
+   tell me which files do not exist.     
+                                                 
+f) As a user I would like to get a file from a URL and store  
+   it in my current working directory.      
+                         
+g) As a user I would like to re-execute previous commands.    
+                                    
+
+Specific tasks to be accomplished:
+
+a-1. Modify Commands' navigatePath method to first move to the MASTER dir then
+     navigate the path.
+b-1. In the navigatePath method, set a condition that sets the manipulatedDir
+     to itself if a . is given.
+c-1. Modify MASTER dir's name, and all references to its name.
+c-2. Set a condition so that no dir can be made with an empty string.
+d-1. Create a MV class that is a subclass of Commands that has an execute
+     method that simply removes the target from its parent directory, and stores
+     it in the given directory.
+e-1. In the CAT class move the catch block into the printFileContents command, 
+     and instead of printing a generic error, print out which parameters are 
+     invalid.
+f-1. Create a GET class that is a subclass of Commands that has an execute 
+     method that gets the contents of the given URL, and creates a file with
+     the name of the URL's file, and stores the contents in the file.
+g-1. Create a NUMBER class that is a subclass of Commands that has an execute
+     method that simply executes a command from the history corresponding to the
+     given number. 
+g-2. In JShell, if the first object of commands starts with an ! mark and has a
+     number following it, replace the "!#" with "NUMBER", and append the string
+     "#" to the commands. 
+
+These tasks are assigned as follows:
+User: c5lastel
+Tasks: b-1
+
+User: c4viswan
+Tasks: d-1
+
+User:  g5schube
+Tasks: a-1, c-1, c-2, e-1
+
+User: c5foroug
+Tasks: f-1, g-1, g-2

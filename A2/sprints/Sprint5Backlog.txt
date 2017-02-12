@@ -1,0 +1,70 @@
+//Sprint 4 Backlog.  
+March 20 to March 25
+
+
+User Stories from Product Backlog that we will address in this sprint:
+                                                   
+a) As a user I would like to send any command's output to an  
+   output file. 
+b) As a user I would like to input multiple paths into the LS 
+   command.
+c) As a user I would like to list the contents of all         
+   directories in a path given to LS. 
+d) As a user I would like to move a directory into another.
+e) As a user I would like to copy a directory into another.
+f) As a user I would like to re-execute previous commands.
+g) As a user I would like to search a directory for a file.
+h) As a user I would like to search a directory's contents and
+   its children's contents for any files containing a string  
+   value.    
+                                    
+
+Specific tasks to be accomplished:
+a-1. In all command classes, make them compatible with >> outfile or > outfile
+a-2. Create helper methods in certain classes called specialPrint that takes 
+     String message, String filename and ArrayList commands. If the filename is
+     not in the workingDir's contents, create a file with that name. If >> or > 
+     is in a certain position for the command, append the message to the file's
+     contents.
+a-3. In all classes, if > is given and the file exists, erase its contents 
+     before any specialPrints execute.
+b-1. Nest ls' basic function in a for loop.
+b-2. Set try catch methods to print either the information desired or if
+     a path is invalid
+c-1. Create a new parameter to be analyzed. If enabled, each path given
+     must navigate to each of its parts and print its contents.
+d-1. Create a MV class that is a subclass of Commands that has an execute
+     method that simply removes the target from its parent directory, and stores
+     it in the given directory.
+e-1. Create a CP class that is a subclass of Commands that has an execute
+     method that generates a copy of the target and stores it in the new
+     destination. 
+e-1. Create a recursive method that takes a given Dir, creates a copy Dir named
+     after given. Creates new files that are copies of given Dir and stores
+     them in copy. Recursively takes each child Dir of given Dir and makes a
+     subcopy Dir of them, and stores it in the copy.
+f-1. Create a NUMBER class that takes a number based on the inputs history
+     and re-executes it like JShell does.
+g-1. Create a helper method in Commands that searches for a file in a dir's
+     contents and returns it.
+g-2. Implement the helper method in the REGEX path
+h-1. Create a helper method in grep that can search a file for a string, and 
+     return the line number and line the string occurs.
+h-2. Create a recursive helper method in grep that uses the previous helper on
+     all files in a dir, and all files in the subdirs
+h-3. Implement optional controls and executions in GREP's execute
+     
+
+
+These tasks are assigned as follows:
+User: c5lastel
+Tasks: a-1, a-2, a-3, d-1, f-1, g-1
+
+User: c4viswan
+Tasks: a-1, a-2, a-3, d-1, f-1, g-1
+
+User:  g5schube
+Tasks: b-1, b-2, c-1, e-1, g-2, h-1, h-2, h-3
+
+User: c5foroug
+Tasks: b-1, b-2, c-1, e-1, g-2, h-1, h-2, h-3
