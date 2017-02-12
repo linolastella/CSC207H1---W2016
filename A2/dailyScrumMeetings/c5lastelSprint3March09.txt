@@ -1,0 +1,10 @@
+What did I do last time?
+    - Checked the style of our java files.
+    - Added appropriate comments where needed.
+    
+What do I plan to do now?
+    - Working on JTests with my team and finish this assignment.
+    
+Am I blocked on anything?
+    - No
+    

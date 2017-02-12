@@ -1,0 +1,11 @@
+What did I do last time?
+    - Add in documentation when needed
+    - Attempt proof-reading the program where needed
+   
+What do I plan to do now?
+	-Do JUnit tests for directory file
+		    
+Am I blocked on anything?
+    - No
+    
+     

@@ -1,0 +1,12 @@
+What did I do last time?
+    - Organized the assignment with my team
+    - Worked on Dir.java
+    
+What do I plan to do now?
+    - Start my tasks for Sprint2 
+    - Fix some bugs we could find
+    
+Am I blocked on anything?
+    - Not really
+    
+     

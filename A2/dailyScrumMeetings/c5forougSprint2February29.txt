@@ -1,0 +1,15 @@
+What did I do last time?
+    -Created all test cases for Echo Class
+    - Finish commenting and optimizing the tests
+	- Help implement the JShell
+	- Help team mates with their tasks
+     
+What do I plan to do now?
+	- work on Jshell
+	-Optimize testing
+	-work on manual 
+    
+Am I blocked on anything?
+    - No
+    
+     

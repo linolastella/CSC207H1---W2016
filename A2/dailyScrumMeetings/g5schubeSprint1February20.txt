@@ -1,0 +1,14 @@
+What did I do last time?
+    - Create the file class and its instance variables
+    - Create the file constructor
+    - Create the contents getter method
+    - Create the contents setter method   
+What do I plan to do now?
+    - Monitor other class progress
+    - Assist teammates in completing code
+    - Edit classes after completion
+    
+Am I blocked on anything?
+    - No
+    
+     

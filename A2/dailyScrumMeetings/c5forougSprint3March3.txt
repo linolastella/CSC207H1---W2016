@@ -1,0 +1,14 @@
+What did I do last time?
+	- work on Jshell
+	- Optimize testing
+	- work on manual 
+    
+     
+What do I plan to do now?
+	- Finish all unittests
+	- Polish program 
+	- polish code
+Am I blocked on anything?
+    - No
+    
+     

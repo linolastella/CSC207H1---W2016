@@ -1,0 +1,17 @@
+What did I do last time?
+	- Create the echo class
+	- Create a method that takes input(string) and overwrites a given File's
+      contents.
+	- Create a method that takes input(string) and appends to a given File's
+      contents.
+	- Create a method that prints out the input(string).
+
+What do I plan to do now?
+    - Monitor other class progress
+    - Assist team-mates in completing code
+    - Edit classes after completion
+    
+Am I blocked on anything?
+    - No
+    
+     

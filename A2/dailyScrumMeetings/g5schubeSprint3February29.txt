@@ -1,0 +1,21 @@
+What did I do last time?
+    - Continue creating skeleton code for JShell
+    - Continue creating and implement JShell's static variables
+    - Work on completing method implementations
+    - Implemented the cd command
+    - Implemented the pwd command
+    - Implemented the exit command
+    - Implemented the mkdir command
+    - Implemented the ls command but not for a file path
+    - Implemented the pushd command
+     
+What do I plan to do now?
+   - Implement the ls command to work with file paths
+   - Implement the error messages
+   - Implement the popd command
+   - Implement the echo command
+    
+Am I blocked on anything?
+    - No
+    
+     

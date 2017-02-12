@@ -1,0 +1,15 @@
+What did I do last time?
+    - Product Backlog
+    - Sprint Backlog
+    - CRC cards
+    
+What do I plan to do now?
+    - Create the file class and its instance variables
+    - Create the file constructor
+    - Create the contents getter method
+    - Create the contents setter method
+    
+Am I blocked on anything?
+    - No
+    
+     

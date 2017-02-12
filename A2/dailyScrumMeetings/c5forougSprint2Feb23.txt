@@ -1,0 +1,13 @@
+What did I do last time?
+    - Monitor other class progress
+    - Assist team mates in completing code
+    - Edit classes after completion  
+    - Made sure my echo class works according to requirements
+What do I plan to do now?
+    - Create a JUnit test file to test all of Echo's methods thoroughly
+    - Help my colleagues with their assigned tasks
+        
+Am I blocked on anything?
+    - No
+    
+     

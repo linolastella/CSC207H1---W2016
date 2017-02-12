@@ -1,0 +1,14 @@
+What did I do last time?
+   - Created the next sprint
+   - Finalized the ls class
+What do I plan to do now?
+   - Finalize the MV class
+   - Finalize the CP class
+   - Finalize the GREP class
+   - Implement outfile control in all classes
+
+   
+Am I blocked on anything?
+    - No
+    
+     

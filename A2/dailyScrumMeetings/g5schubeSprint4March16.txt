@@ -1,0 +1,18 @@
+What did I do last time?
+   - Modify Commands' navigatePath method to first move to the MASTER dir then
+     navigate the path.
+   - Modify MASTER dir's name, and all references to its name.
+   - Set a condition so that no dir can be made with an empty string.
+   - In the CAT class move the catch block into the printFileContents command, 
+     and instead of printing a generic error, print out which parameters are 
+     invalid.
+    
+What do I plan to do now?
+   - Remodel program for more efficient ideas such as renaming the MASTER dir
+   - Assist teammates in finishing their parts
+
+   
+Am I blocked on anything?
+    - No
+    
+     

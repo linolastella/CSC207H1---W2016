@@ -1,0 +1,14 @@
+What did I do last time?
+	-Worked on GET class : Almost done - needs to be finalized
+	-Fixed JShell according to Sprint TAsk
+	-Commented uncommented classes.
+	-Started Number class
+    
+     
+What do I plan to do now?
+	-Finalize GET and Number Class
+	-Finalize Sprint tasks
+Am I blocked on anything?
+    - No
+    
+     

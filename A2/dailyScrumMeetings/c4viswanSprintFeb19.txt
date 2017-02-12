@@ -1,0 +1,9 @@
+What did I do last time?
+    - Product and Spring backlog with teammates
+	- CRC cards design    
+What do I plan to do now?
+    - Creating a setter and getter method for Directory class
+    - Creating a method to storing Directory in a list
+Am I blocked on anything?
+    - Not really
+    

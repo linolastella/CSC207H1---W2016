@@ -1,0 +1,14 @@
+What did I do last time?
+   - Implement the man command
+   - Implement the history command
+   - Implement the cat command
+    
+What do I plan to do now?
+   - Finalize the project
+   - Edit any comments
+   - Reconstruct if needed
+   
+Am I blocked on anything?
+    - No
+    
+     

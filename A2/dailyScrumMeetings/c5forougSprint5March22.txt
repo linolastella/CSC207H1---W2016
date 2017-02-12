@@ -1,0 +1,15 @@
+What did I do last time?
+	-Finalized Get class
+	-Fixed JShell to accommodate helper methods
+	-Finalized Number Class
+	-Helped with LS class
+    
+     
+What do I plan to do now?
+	-Create MV and CP class
+	-Follow Sprint Tasks
+	- Help members with their task
+Am I blocked on anything?
+    - No
+    
+     

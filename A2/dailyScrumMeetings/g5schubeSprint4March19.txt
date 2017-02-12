@@ -1,0 +1,12 @@
+What did I do last time?
+   - Remodel program for more efficient ideas such as renaming the MASTER dir
+   - Assist teammates in finishing their parts
+    
+What do I plan to do now?
+   - Create the next sprint
+
+   
+Am I blocked on anything?
+    - No
+    
+     
