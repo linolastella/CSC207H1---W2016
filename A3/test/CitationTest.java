@@ -54,26 +54,3 @@ public class CitationTest {
     assertEquals(i10Index, cit.allCitations);
   }
 }
-
-
-
-
-
-
-
-
-//citationsList.add("Egon Willighagen");
-//citationsList.add("Jonathan Alvarsson");
-//citationsList.add("Christoph Steinbeck");
-//citationsList.add("Nina Jeliazkova");
-//citationsList.add("Rajarshi Guha");
-//citationsList.add("Sam Adams");
-//citationsList.add("Janna Hastings");
-//citationsList.add("Samuel Lampa");
-//citationsList.add("Valentin Georgiev");
-//citationsList.add("Adam Ameur");
-//citationsList.add("Komorowski Jan");
-//citationsList.add("gilleain torrance");
-//citationsList.add("Antony John Williams");
-//citationsList.add("Noel M. O'Boyle");
-//citationsList.add("Sean Ekins");
